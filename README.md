@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-This project analyzes financial performance using Excel and Power Query.  
-The objective was to clean raw CSV data, build structured datasets, and develop an interactive financial dashboard using Pivot Tables and advanced Excel features.
+This project analyzes financial performance data using Excel and Power Query to evaluate profitability, cost structure, and discount impact.
+The objective was to transform raw CSV data into structured analytical tables and develop an interactive financial dashboard using Pivot Tables and advanced Excel features.
 
 ## Business Objectives
 
@@ -48,10 +48,10 @@ The objective was to clean raw CSV data, build structured datasets, and develop 
 
 ## Key Insights
 
-- Government segment generates the highest revenue.
-- USA shows the highest COGS rate, impacting margin.
-- The Low discount band contributes the most to total discount impact.
-- Margin performance varies significantly by product.
+- The Government segment generates the highest revenue contribution.
+- The USA exhibits the highest COGS rate, negatively impacting overall profitability.
+- The Low discount band contributes the highest total discount impact, suggesting frequent small discounts significantly affect margins.
+- Profit margins differ notably across products, highlighting the importance of product mix in overall financial performance.
 
 ## Dashboard Preview
 
